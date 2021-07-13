@@ -3,7 +3,7 @@ import Header from './header';
 import Main from './main';
 import Footer from './footer';
 
-
+// add a common
 class App extends React.Component{
   render () {
     return (
